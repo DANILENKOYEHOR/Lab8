@@ -1,0 +1,14 @@
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\bin\Debug\net8.0\ConsoleApp1Lab8.exe
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\bin\Debug\net8.0\ConsoleApp1Lab8.deps.json
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\bin\Debug\net8.0\ConsoleApp1Lab8.runtimeconfig.json
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\bin\Debug\net8.0\ConsoleApp1Lab8.dll
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\bin\Debug\net8.0\ConsoleApp1Lab8.pdb
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.AssemblyInfoInputs.cache
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.AssemblyInfo.cs
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.csproj.CoreCompileInputs.cache
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.dll
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\refint\ConsoleApp1Lab8.dll
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.pdb
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ConsoleApp1Lab8.genruntimeconfig.cache
+C:\Users\selez\Desktop\Поликек\семестр_8\Основи_техн_c#\Lab-08\ConsoleApp1Lab8\ConsoleApp1Lab8\obj\Debug\net8.0\ref\ConsoleApp1Lab8.dll
